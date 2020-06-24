@@ -3,3 +3,8 @@
 *.profraw
 .ipynb_checkpoints
 Tennis.app/
+
+__pycache__/
+unity-environment.log
+
+

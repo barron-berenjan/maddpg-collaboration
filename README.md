@@ -5,7 +5,7 @@
 
 # Collaboration with MADDPG 
 
-This repository provides the code required to train multiple agent using **Multi-Agent Deep Deterministic Policy Gradients** to solve the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
+This repository provides code to train multiple agent using **Multi-Agent Deep Deterministic Policy Gradients** to solve the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
 ![Trained Agent][image1]
 
@@ -51,7 +51,7 @@ pip install .
 	- __Windows (32-bit)__: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
 	- __Windows (64-bit)__: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
-__Note: Unzip the file in the same directory as the notebooks from this repository.__
+__Note: Unzip the file in the same directory as this repository.__
 
 
 ## Training the Agent
